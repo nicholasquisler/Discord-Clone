@@ -3,7 +3,7 @@ import { getAuth, GoogleAuthProvider } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBYuigmVtwIBmWBy_wUYzfgPAfzKQmqdDw",
+    apiKey: "AIzaSyDdvQFw8aItHIgAnw34BqjMH4p8GWxHY7I ",
     authDomain: "discord-clone-6d5c7.firebaseapp.com",
     projectId: "discord-clone-6d5c7",
     storageBucket: "discord-clone-6d5c7.appspot.com",
